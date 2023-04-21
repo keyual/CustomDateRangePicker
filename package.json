@@ -1,0 +1,1 @@
+{"name":"CustomDateRangePicker","version":"0.0.1","private":true,"scripts":{"start":"node node_modules/react-native/local-cli/cli.js start"},"dependencies":{"react-native":"0.71.7","react-native-paper":"^5.7.0"},"devDependencies":{"@types/color":"^3.0.3","@types/react":"^18.0.37"}}
